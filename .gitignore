@@ -1,0 +1,6 @@
+.secrets/
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.DS_Store
+*.p8
